@@ -5,7 +5,7 @@ This project aims to use the restaurant tips dataset to practice creating compos
 
 ## Data
 ### Data Source
-
+    The dataset comes from the Tips Dataset, originally introduced in Modern Applied Statistics with S (Venables & Ripley, 2002) and now available through the Seaborn library. It contains 244 observations and 7 variables related to restaurant bills and tips
 ### Data Description
 Number of observations: 244 obs
 Number of variables: 7.
