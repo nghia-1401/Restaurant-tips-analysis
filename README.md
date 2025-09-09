@@ -7,5 +7,15 @@ This project aims to use the restaurant tips dataset to practice creating compos
 ### Data Source
 
 ### Data Description
+Number of observations: 244 obs
+Number of variables: 7.
+As you can see each observation represents a customer who left a tip at a restaurant.
+    total_bill: the total bill
+    tip: số tiền tip (USD).
+    sex: the sex of the person
+    smoker: if they were a smoker or not
+    day: the day it occurred
+    time: if it was at lunch or dinner
+    size: the size of the party
 ### Data Access
 ## Main Goals
