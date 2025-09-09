@@ -5,7 +5,7 @@ This project aims to use the restaurant tips dataset to practice creating compos
 
 ## Data
 ### Data Source
-    The dataset comes from the Tips Dataset, originally introduced in Modern Applied Statistics with S (Venables & Ripley, 2002) and now available through the Seaborn library. It contains 244 observations and 7 variables related to restaurant bills and tips
+The dataset comes from the Tips Dataset, originally introduced in Modern Applied Statistics with S (Venables & Ripley, 2002) and now available through the Seaborn library. It contains 244 observations and 7 variables related to restaurant bills and tips.
 ### Data Description
 Number of observations: 244 obs
 Number of variables: 7.
@@ -18,4 +18,9 @@ As you can see each observation represents a customer who left a tip at a restau
     time: if it was at lunch or dinner
     size: the size of the party
 ### Data Access
+First, let's import the needed libraries: Pandas & Matplotlib.
+```
+import pandas as pd
+import matplotlib.pyplot as plt
+```
 ## Main Goals
