@@ -23,4 +23,20 @@ First, let's import the needed libraries: Pandas & Matplotlib.
 import pandas as pd
 import matplotlib.pyplot as plt
 ```
+Then load data from the following link: https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
+```
+df=pd.read_csv('https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv')
+```
+### Data exploration
+#### Data Sample
+```
+df.head()
+```
+|index|id|total\_bill|tip|sex|smoker|day|time|size|
+|---|---|---|---|---|---|---|---|---|
+|0|0|16\.99|1\.01|Female|No|Sun|Dinner|2|
+|1|1|10\.34|1\.66|Male|No|Sun|Dinner|3|
+|2|2|21\.01|3\.5|Male|No|Sun|Dinner|3|
+|3|3|23\.68|3\.31|Male|No|Sun|Dinner|2|
+|4|4|24\.59|3\.61|Female|No|Sun|Dinner|4|
 ## Main Goals
