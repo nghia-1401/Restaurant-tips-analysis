@@ -10,6 +10,7 @@ The dataset comes from the Tips Dataset, originally introduced in Modern Applied
 Number of observations: 244 obs
 Number of variables: 7.
 As you can see each observation represents a customer who left a tip at a restaurant.  
+
     total_bill: the total bill
     tip: số tiền tip (USD).
     sex: the sex of the person
@@ -55,3 +56,8 @@ The main objective of this project is to examine the factors influencing tipping
     3. Insight 3: Smokers tend to give lower and less diverse tips.
 
     Conclusion: Non-smokers generally give higher and more varied tips, while smokers tend to give smaller and less diverse tips. Overall, most customers tip in the range of 2–4 USD, with large tips above 6 USD being rare.
+###  Do males give more tips?
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/ee711482-4cbf-449a-bcbb-7fec18294650" />  
+
+    Conclusion: Males tend to tip more and with greater variation, including some very high tips.
+                Both males and females tip around 2 USD
