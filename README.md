@@ -61,3 +61,17 @@ The main objective of this project is to examine the factors influencing tipping
 
     Conclusion: Males tend to tip more and with greater variation, including some very high tips.
                 Both males and females tip around 2 USD
+### Do weekends bring more tips?
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/7f47b155-b0be-4b46-9d3b-76edb7657efe" />  
+
+    Conclusion:
+      Customers tip more and with greater variation on weekends (both in frequency and value).
+      On weekdays, tips are lower and more stable, with little fluctuation.
+      On weekends, tips are mostly around 2–3 USD, but several high-value outliers appear → indicating broader spending behavior.
+### Do dinners bring more tips?
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/107d327b-6f93-4064-8053-28c4dbf9c68f" />  
+
+    Conclusion:
+      Lunch: Tips are mostly concentrated at lower levels (around 2 USD), with a narrow distribution and few high outliers.
+      Dinner: The distribution is wider, ranging from 1 USD up to 10 USD, with more freqent high tips.
+    => Customers tend to tip more and with greater variation at dinner compared to lunch
