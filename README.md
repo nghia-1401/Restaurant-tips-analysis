@@ -40,3 +40,17 @@ df.head()
 |3|3|23\.68|3\.31|Male|No|Sun|Dinner|2|
 |4|4|24\.59|3\.61|Female|No|Sun|Dinner|4|
 ## Main Goals
+The main objective of this project is to examine the factors influencing tipping behavior in restaurants. Specifically, the analysis tests for differences in tip amounts across:
+    Smokers vs. Non-smokers
+    Males vs. Females
+    Weekends vs. Weekdays
+    Dinner vs. Lunch
+## Results
+### Do people who smoke give more tips?
+<img width="1789" height="490" alt="image" src="https://github.com/user-attachments/assets/5e268783-ef0c-4881-93b7-72278eb576b4" />
+
+    1. Insight 1: Most customers give small tips (2–4 USD), and very few give large tips (>6 USD).
+    2. Insight 2: The tip distribution of non-smokers is more even compared to smokers.
+    3. Insight 3: Smokers tend to give lower and less diverse tips.
+
+    Non-smokers generally give higher and more varied tips, while smokers tend to give smaller and less diverse tips. Overall, most customers tip in the range of 2–4 USD, with large tips above 6 USD being rare.
