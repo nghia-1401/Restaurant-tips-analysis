@@ -10,6 +10,7 @@ The dataset comes from the Tips Dataset, originally introduced in Modern Applied
 Number of observations: 244 obs
 Number of variables: 7.
 As you can see each observation represents a customer who left a tip at a restaurant.
+    
     total_bill: the total bill
     tip: số tiền tip (USD).
     sex: the sex of the person
@@ -41,6 +42,7 @@ df.head()
 |4|4|24\.59|3\.61|Female|No|Sun|Dinner|4|
 ## Main Goals
 The main objective of this project is to examine the factors influencing tipping behavior in restaurants. Specifically, the analysis tests for differences in tip amounts across:
+    
     Smokers vs. Non-smokers
     Males vs. Females
     Weekends vs. Weekdays
