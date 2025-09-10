@@ -53,4 +53,4 @@ The main objective of this project is to examine the factors influencing tipping
     2. Insight 2: The tip distribution of non-smokers is more even compared to smokers.
     3. Insight 3: Smokers tend to give lower and less diverse tips.
 
-    Non-smokers generally give higher and more varied tips, while smokers tend to give smaller and less diverse tips. Overall, most customers tip in the range of 2–4 USD, with large tips above 6 USD being rare.
+    Conclusion: Non-smokers generally give higher and more varied tips, while smokers tend to give smaller and less diverse tips. Overall, most customers tip in the range of 2–4 USD, with large tips above 6 USD being rare.
